@@ -1,0 +1,45 @@
+/*
+============== background Color====================
+*/
+.dark-bg, .hover-bg:hover, .ui-timeline .tl-item .tl-body .tl-entry .btn-primary, .btn-text, .faq .collape-plus,
+.container-filter li a.active, .container-filter li a:hover, .container-filter li a, .link-zoom a, .link-zoom a.project_links,
+.project-info, #related-project .owl-prev:hover, #related-project .owl-next:hover, .sidebar-widget .widget-tag li a:hover,
+.content-carousel .owl-controls .owl-nav .owl-prev, .content-carousel .owl-controls .owl-nav .owl-next,
+.image-slider .owl-controls .owl-nav .owl-prev, .image-slider .owl-controls .owl-nav .owl-next,
+.fullwidth-slider .owl-controls .owl-nav .owl-prev, .fullwidth-slider .owl-controls .owl-nav .owl-next,
+.nf-carousel-theme .owl-controls .owl-nav .owl-prev, .nf-carousel-theme .owl-controls .owl-nav .owl-next, .blog-date,
+.pagination-nav ul li.active a, .pagination-nav ul li:hover a, .page-signin .body-inner:before, .b-line, 
+.bottom-section, #footer-widgets .widget .widget-title > span::after, 
+.tparrows.tp-leftarrow:hover, .tparrows.tp-rightarrow:hover, 
+.main-menu__block ul li a.custom_btn__block, .full-wid .about-block .read__more, .more_btn, 
+#footer-widgets .widget.widget_socials .socials a:hover:before, 
+.nf-carousel-theme.nf-carousel-arrow .owl-controls .owl-prev:hover, .nf-carousel-theme.nf-carousel-arrow .owl-controls .owl-next:hover {
+  background: #f6bb18;
+}
+
+/*
+============== Text Color====================
+*/
+.gallery-heading h4 a:hover, .post-meta span > a > i,
+.sidebar-widget ul li a:hover, .lead-point li, .blog-post .fa-tag, .pagination-nav ul li a, .big-font i, .btn-text:hover,
+.color-primary, a.color-primary, .contact .icon-circle, .single-sidebar-widget .special-links li:hover a,
+.single-sidebar-widget .special-links li a.active, .custom-check:before, .more_btn__block, 
+.main-banner .banner-text h2 span, .top-info__block li i, .poins ul li i, .owl-prev, .owl-next, h2 span, 
+.main-menu__block ul li ul > li:hover a {
+  color: #f6bb18;
+}
+.color, .inner-intro .page-breadcrumb span {
+    color: #f6bb18 !important;
+}
+/*
+============== Border Color====================
+*/
+.ui-timeline .tl-item .tl-body .tl-entry .btn-primary, .btn-text, #related-project .owl-prev:hover, #related-project .owl-next:hover,
+.widget-tag li a, .pagination-nav ul li a, .client-avtar, .contact .icon-circle,
+.contact-form input[type="text"]:focus, .contact-form textarea:focus, .single-sidebar-widget .special-links li a:before,
+.widget-search input[type="text"]:focus, .custom-check, .tparrows.tp-leftarrow:hover, .tparrows.tp-rightarrow:hover, 
+.arrow_theme .owl-prev:hover, .arrow_theme .owl-next:hover, .full-wid .border__b, 
+#footer-widgets .widget.widget_socials .socials a:hover:before, 
+.nf-carousel-theme.nf-carousel-arrow .owl-controls .owl-prev:hover, .nf-carousel-theme.nf-carousel-arrow .owl-controls .owl-next:hover {
+  border-color: #f6bb18;
+}
