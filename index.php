@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include 'partials/head.php' ?>
+<?php include 'partials/head.html' ?>
 <body>
 <!--loader-->
 <div id="preloader">
@@ -79,7 +79,7 @@
             </div>
         </div>
     </div>
-    <?php include 'partials/navbar.php' ?>
+    <?php include 'partials/navbar.html' ?>
 </header>
 <!--End mainmenu area-->
 <!-- END HEADER -->
@@ -771,7 +771,7 @@
 <!-- End form Section -->
 
 <!-- FOOTER -->
-<?php include 'partials/footer.php' ?>
+<?php include 'partials/footer.html' ?>
 <!-- END FOOTER -->
 <!-- Site Wraper End -->
 <script src="assets/js/jquery-1.12.4.min.js" type="text/javascript"></script>
