@@ -9453,3 +9453,9 @@ font-weight:bold;
 .color, .inner-intro .page-breadcrumb span {
     color: #daa106 !important;
 }
+
+
+ul.nav.navbar-nav.mobile-menu li:hover {
+	background: #daa106 !important;
+	color: #292929 !important;
+}
