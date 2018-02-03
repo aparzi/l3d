@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /
+#when the site goes online, change the path
+ErrorDocument 404 /progetti/techres/404.php
