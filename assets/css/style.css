@@ -9459,3 +9459,7 @@ ul.nav.navbar-nav.mobile-menu li:hover {
 	background: #daa106 !important;
 	color: #292929 !important;
 }
+
+#logo_azienda {
+	height: 60px;
+}

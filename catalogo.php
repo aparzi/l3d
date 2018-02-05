@@ -49,7 +49,9 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="logo">
-                        <a href="index1.html"> <img src="assets/images/logo.png" alt="Logo"> </a>
+                        <a href="index.php">
+                            <a href="index.php"> <img id="logo_azienda" src="assets/images/logo.png" alt="Logo"> </a>
+                        </a>
                     </div>
                 </div>
                 <div class="col-md-8">
